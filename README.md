@@ -2,10 +2,9 @@
 
 拖拽排序小组件
 
-demo在线演示地址
+[demo在线演示地址](http://yujieyu7.github.io/drag/)
 
-
-使用方法，在页面引入 dragSort.js 文件
+使用方法，在页面引入 dragSort.js 文件，添加如下代码
 
 var dragLi = new Drag() //创建拖拽对象
 
