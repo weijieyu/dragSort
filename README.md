@@ -9,6 +9,7 @@
 var dragLi = new Drag() //创建拖拽对象
 
 dragLi.init((obj,towards,opt) //初始化调用
+
 /*
 配置参数，依次为
 
