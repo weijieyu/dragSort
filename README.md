@@ -27,3 +27,6 @@ dragLi.init((obj,towards,opt) //初始化调用
 /*
 
 dragLi.addDrag()//给他的兄弟也添加上拖拽
+
+
+添加测试
